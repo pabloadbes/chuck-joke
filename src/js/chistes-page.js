@@ -6,10 +6,10 @@ let num = 0;
 
 const crearChistesHtml = () => {
     const html = `
-        <h1 class="mt-5">Chistes</h1>
+        <h1 class="mt-5">Jokes</h1>
         <hr>
 
-        <button class="btn btn-primary">Otro chiste</button>
+        <button class="btn btn-primary">Another Please!</button>
 
         <ol class="mt-2 list-group">
         </ol>
@@ -35,7 +35,7 @@ const eventos = () => {
 const agregarChiste = ( chiste ) => {
     num++;
     const liChiste = document.createElement('li');
-    liChiste.innerHTML = `${ num }.- <b>${ chiste.id }</b>: ${ chiste.value }`;
+    liChiste.innerHTML = `${ num }.- ${ chiste.value }`;
     liChiste.classList.add('list-group-item');
     olChistes.append(liChiste);
 }
