@@ -6,12 +6,13 @@ This app takes data from an API with jokes about Chuck Norris
 Covers
 ```
 Basic HTML, CSS & Bootstrap
-js primitives, arrays, objects, arrow functions & control structures
-underscore.js
-Module Design Pattern & clean code optimizations
+Webpack
+Promises
+Http - fetch
+Provider Design Pattern
 ```
 ## Demo
-[Try it!](https://pabloadbes.github.io/blackjack/)
+[In construction!](https://pabloadbes.github.io/chuck-joke/)
 ## Preview
 ![Preview](/assets/images/blackjack_preview.png)
 ## Notes
