@@ -7,14 +7,14 @@ Covers
 ```
 Basic HTML, CSS & Bootstrap
 Webpack
-Promises
+Promises, async/await
 Http - fetch
 Provider Design Pattern
 ```
 ## Demo
-[In construction!](https://pabloadbes.github.io/chuck-joke/)
+[A joke?](https://pabloadbes.github.io/chuck-joke/)
 ## Preview
-![Preview](/assets/images/blackjack_preview.png)
+![Preview](/assets/images/chuck_joke_preview.png)
 ## Notes
 Remember to rebuild Node modules:
 ```
