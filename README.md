@@ -14,7 +14,7 @@ Provider Design Pattern
 ## Demo
 [A joke?](https://pabloadbes.github.io/chuck-joke/)
 ## Preview
-![Preview](/assets/images/chuck_joke_preview.png)
+![Preview](/docs/assets/images/chuck_joke_preview.png)
 ## Notes
 Remember to rebuild Node modules:
 ```
